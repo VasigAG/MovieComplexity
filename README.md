@@ -1,0 +1,2 @@
+Movies tend to use the same "big ideas". For example: Revenge(A,B,C) can be used to compress "C likes A, A kills B, C kills A". The elementary operations like "kills", "likes" etc. can be used to assemble more complex ideas like revenge in this case.
+Install llama and the model used to run the code locally.
